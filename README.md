@@ -13,10 +13,10 @@ We talked about the following:
     - syso -> `System.out.println("")` used to print text and variable values  
     - you can use `+` operator to split the string in multiple lines  
     ```Java
-    System.out.println("hello" + 
-                            "world!" + 
-                            "my name is " +
-                            "Omar")
+    System.out.println("hello" +   
+                            "world!" +   
+                            "my name is " + 
+                            "Omar")  
     ```
     - Scanner methods, 
       - `.next()` takes one word  
